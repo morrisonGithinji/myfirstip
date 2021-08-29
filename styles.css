@@ -1,13 +1,26 @@
 .about-me
   {
-    font-size: 12;
-    background-color: green;
-    
+    font-size: 20;
+    background-color: white;
+    width: 100pc;
+    border: 10px solid rgb(25, 21, 26);
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
   }
   
   img
     {
-      width: 100pc;
-      height: 50pc;
-      float left;
+      width: 50pc;
+      height: 25pc;
+      
+    
+    }
+
+  h1
+     {
+        text-align: center;
+        font-style: italic;
+        font-size: 15;
+        ba
     }
