@@ -9,10 +9,17 @@
     text-align: center;
   }
   
-  img
+  .header
     {
-      width: 50pc;
-      height: 25pc;
+      text-align: center;
+      background-image: url(images/programming.jpeg);
+      background-position: center;
+      background-size: cover
+      width: 100pc;
+      height: 30pc;
+      border: 10px solid rgb(25, 21, 26);
+      padding: 20px;
+      margin: 10px;
       
     
     }
@@ -22,6 +29,7 @@
         text-align: center;
         font-style: italic;
         font-size: 15;
+        color: white;
         
     }
   
@@ -29,8 +37,23 @@
    {
      text-align: center;
      font-size: 20;
-
+     align-content: center;
+     
+     
    }
    
+   img
+    {
     
+      margin-left: 25%;
+      margin-right: 25%;      
+      border-radius: 50%;
+    border-color: black;
+    border: solid;
+    border: bold;
+    width: 25pc;
     
+    } 
+    
+
+   
