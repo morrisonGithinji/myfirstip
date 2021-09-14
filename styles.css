@@ -1,7 +1,7 @@
 .about-me
   {
     font-size: 20;
-    background-color: white;
+    background-image: url();
     width: 100pc;
     border: 10px solid rgb(25, 21, 26);
     padding: 50px;
@@ -14,7 +14,7 @@
       text-align: center;
       background-image: url(images/programming.jpeg);
       background-position: center;
-      background-size: cover
+      background-size: cover;
       width: 100pc;
       height: 30pc;
       border: 10px solid rgb(25, 21, 26);
